@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: suhaandocker/project-1-repo:79acef7
+        image: suhaandocker/project-1-repo:5f03d22
         ports:
         - containerPort: 3000
         imagePullPolicy: Always
